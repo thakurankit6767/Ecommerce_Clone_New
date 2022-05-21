@@ -9,6 +9,30 @@ Redux
 CSS
 Node.js for server
 
+Documentation
+
+create-react-app
+https://create-react-app.dev/docs/getting-started/
+
+react-paginate
+https://www.npmjs.com/package/react-paginate
+
+react-router-dom
+https://www.npmjs.com/package/react-router-dom
+
+fetch_api
+https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch
+
+link
+https://v5.reactrouter.com/web/api/Link
+
+material-UI
+https://mui.com/
+
+Hooks
+https://react-redux.js.org/api/hooks
+
+
 ScreenShots
 
 ![home](https://user-images.githubusercontent.com/95959359/169657549-8a2ef28d-0755-44a3-98dd-cb6662e40d9d.png)
